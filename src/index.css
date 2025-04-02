@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+
+@layer base {
+  body {
+    @apply bg-slate-900 text-gray-200;
+  }
+}
+
+@layer utilities {
+  .nav-btn {
+    @apply px-4 py-1.5;
+  }
+}
