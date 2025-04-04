@@ -2,8 +2,6 @@
 
 A minimalist blog platform built with React and Tailwind CSS. This project was created as a learning exercise to practice modern web development techniques and UI design principles.
 
-![MiniBlog Preview](./preview.png)
-
 ## 🎯 Project Purpose
 
 This project was developed as a hands-on learning experience to explore:
