@@ -6,7 +6,7 @@ import PostDetails from './pages/PostDetails';
 const routes = [
   { path: '/', element: <Home /> },
   { path: '/blogs', element: <Blogs /> },
-  { path: '/PostDetails/:postID', element: <PostDetails /> },
+  { path: '/postDetails/:postID', element: <PostDetails /> },
   { path: '*', element: <NotFound /> },
 ];
 

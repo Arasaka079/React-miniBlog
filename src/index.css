@@ -10,4 +10,7 @@
   .nav-btn {
     @apply px-4 py-1.5;
   }
+  .post__banner {
+    filter: drop-shadow(4px 4px 0px rgba(6, 182, 212, 0.7));
+  }
 }
