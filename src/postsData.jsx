@@ -9,6 +9,7 @@ const postsData = [
       role: 'Frontend Developer',
     },
     publishDate: '2024-03-15',
+    views: 3427,
     shortDescription: 'Learn the basics of React and start building your first component-based application.',
     longDescription: `React is a powerful JavaScript library for building user interfaces. In this comprehensive guide, we'll cover:
 
@@ -34,6 +35,7 @@ Whether you're new to web development or coming from another framework, this gui
       role: 'Health & Wellness Coach',
     },
     publishDate: '2024-03-14',
+    views: 8956,
     shortDescription: 'Discover five essential morning habits that can boost your productivity and well-being.',
     longDescription: `Starting your day right can set the tone for success. Here's a detailed look at five transformative morning habits:
 
@@ -57,6 +59,7 @@ We'll explore the science behind each habit and provide practical tips for incor
       role: 'Professional Photographer',
     },
     publishDate: '2024-03-13',
+    views: 5234,
     shortDescription: 'Master the basics of photography with these simple yet effective techniques.',
     longDescription: `Ready to improve your photography skills? This guide covers essential techniques that will transform your photos:
 
@@ -82,6 +85,7 @@ Plus, we'll share practical exercises to help you practice these concepts in the
       role: 'UI/UX Designer',
     },
     publishDate: '2024-03-12',
+    views: 7123,
     shortDescription: 'Explore the latest trends in web design and stay ahead in the digital world.',
     longDescription: `The web design landscape is constantly evolving. Here are the key trends shaping 2024:
 
@@ -119,6 +123,7 @@ We'll analyze real-world examples and discuss implementation strategies for each
       role: 'Food & Nutrition Expert',
     },
     publishDate: '2024-03-11',
+    views: 9845,
     shortDescription: 'Quick and nutritious recipes perfect for busy professionals and students.',
     longDescription: `No time to cook? No problem! These quick recipes are both healthy and delicious:
 
@@ -151,6 +156,7 @@ Plus, we'll share tips for grocery shopping, meal planning, and kitchen organiza
       role: 'Productivity Consultant',
     },
     publishDate: '2024-03-10',
+    views: 4567,
     shortDescription: 'Discover the best tools and apps to boost your daily productivity and efficiency.',
     longDescription: `Maximize your efficiency with these carefully selected productivity tools:
 
